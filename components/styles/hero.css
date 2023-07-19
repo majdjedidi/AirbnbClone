@@ -1,0 +1,12 @@
+.hero--sec{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.hero--img{
+    align-self: center;
+    max-width: 400px;
+}
+.hero--title{
+    margin: 20px 0 16px 5px;
+}
